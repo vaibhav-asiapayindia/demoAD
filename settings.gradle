@@ -1,0 +1,2 @@
+include ':app', ':samplesdk'
+rootProject.name='My Application'
